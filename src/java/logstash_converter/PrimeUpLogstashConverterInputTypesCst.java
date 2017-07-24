@@ -10,7 +10,7 @@ package logstash_converter;
  * @author gabri
  */
 public class PrimeUpLogstashConverterInputTypesCst  {
-
+//teste1441
     public static final String BEATS_PLUGIN = "beata3s";
     public static final String CLOUDWATCH_PLUGIN = "cloudwatch";
     public static final String COUCHDB_CHANGES_PLUGIN = "couchdb_changes";
