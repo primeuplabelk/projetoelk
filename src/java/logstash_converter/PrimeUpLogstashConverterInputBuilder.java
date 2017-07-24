@@ -16,9 +16,9 @@ public class PrimeUpLogstashConverterInputBuilder {
     public String filePluginBuilder(){
         
         StringBuffer fileBuffer = new StringBuffer();
-        fileBuffer.append(filePluginHeaderOpener);
+        fileBuffer.append("");
         
-        fileBuffer.append(filePluginHeaderEnd);
+        fileBuffer.append("");
         
         
         
