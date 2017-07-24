@@ -11,7 +11,7 @@ package logstash_converter;
  */
 public class PrimeUpLogstashConverterInputTypesCst  {
 
-    public static final String BEATS_PLUGIN = "beataas";
+    public static final String BEATS_PLUGIN = "beata3s";
     public static final String CLOUDWATCH_PLUGIN = "cloudwatch";
     public static final String COUCHDB_CHANGES_PLUGIN = "couchdb_changes";
     public static final String DRUPAL_DBLOG_PLUGIN = "drupal_dblog";
